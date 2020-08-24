@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 fc40848207be75f9c7c37ea82a69385be88d3f5a Japan Bhavsar <jbhavsar@apttus.com> 1596298897 +0530	commit (initial): First commit of jMeet video chat app
+fc40848207be75f9c7c37ea82a69385be88d3f5a 93523635126df9814ba93c94c6296b6620e40372 Japan Bhavsar <jbhavsar@apttus.com> 1596300270 +0530	commit: added peer connection
+93523635126df9814ba93c94c6296b6620e40372 9b0761cc7d2847e200d4624a688f559e0eb8c5f5 Japan Bhavsar <jbhavsar@apttus.com> 1596300509 +0530	commit: 3rd
+9b0761cc7d2847e200d4624a688f559e0eb8c5f5 d361e40a805e7d2074132062646cabe9727473e2 Japan Bhavsar <jbhavsar@apttus.com> 1596301027 +0530	commit: j
+d361e40a805e7d2074132062646cabe9727473e2 cb9a4f957d1fef5f45ff803956d77dbc7f0a8558 Japan Bhavsar <jbhavsar@apttus.com> 1596302093 +0530	commit: look chnages
+cb9a4f957d1fef5f45ff803956d77dbc7f0a8558 167bedb19a41c060fe1cede2801124b6c4221f84 Japan Bhavsar <jbhavsar@apttus.com> 1596302499 +0530	commit: added grid gap
+167bedb19a41c060fe1cede2801124b6c4221f84 c441d66f96594b1cbd59dce5377b35ac0c093fde Japan Bhavsar <jbhavsar@apttus.com> 1596302655 +0530	commit: grid
+c441d66f96594b1cbd59dce5377b35ac0c093fde 99d589c0486b6c10dd62aed3f7a718cbbef61fc9 Japan Bhavsar <jbhavsar@apttus.com> 1596303147 +0530	commit: added navbar
+99d589c0486b6c10dd62aed3f7a718cbbef61fc9 d15f599b17c6225a654b25ac353a4dfd93dfaed4 Japan Bhavsar <jbhavsar@apttus.com> 1596303297 +0530	commit: added margin for navbar
+d15f599b17c6225a654b25ac353a4dfd93dfaed4 4abecd4cfb85f9eb916f7e525d1542a9fb3642c9 Japan Bhavsar <jbhavsar@apttus.com> 1596304385 +0530	commit: aaded
+4abecd4cfb85f9eb916f7e525d1542a9fb3642c9 e6c303cec6b37c9d6bf455551ba475eabc974c2d Japan Bhavsar <jbhavsar@apttus.com> 1596333155 +0530	commit: adding height in vh
+e6c303cec6b37c9d6bf455551ba475eabc974c2d 764230dcafd5908bf24ac2ec8b8905dd26a83dc2 Japan Bhavsar <jbhavsar@apttus.com> 1598273426 +0530	commit: add alert

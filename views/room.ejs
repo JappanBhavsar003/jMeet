@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" 
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script>
+        const ROOM_ID = "<%= roomId %>";
+        console.log(ROOM_ID);
+    </script>
+    <script src="https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js" defer></script>
+    <script src="/socket.io/socket.io.js" defer></script>    
+    <script src="script.js" defer></script>
+    <title>jMeet | Video Chat App by Japan Bhavsar</title>
+    <style>
+        body {
+            background-color: #17f9f2;
+            background-image: linear-gradient(315deg, #17f9f2 0%, #b0f9a9 74%);
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+        }
+
+        nav {
+            margin-bottom: 10px;
+        }
+
+        #video-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, 250px);
+            grid-auto-rows: 200px;
+            grid-gap: 8px;
+        }
+
+        video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 5px;
+            box-shadow: 0px 2px 3px #555;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+        <span class="navbar-text">
+            jMeet - Video chat app by Japan Bhavsar
+        </span>
+    </nav>
+    <div class="container">
+        <div id="video-grid"></div>
+    </div>    
+</body>
+</html>
